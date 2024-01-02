@@ -10,6 +10,17 @@ PyQtTextEditor is a simple text editor built using PyQt5, a set of Python bindin
 - **Customization:** Customize the appearance and behavior of the text editor.
 - **Cross-Platform:** Works seamlessly on Windows, macOS, and Linux.
 
+## For Your Reference...
+
+![Screenshot from 2024-01-01 23-09-47](https://github.com/Pv200/PYQT_TEXT_EDITOR-/assets/117562053/3708fc81-0327-41a0-b7cf-659c74881761)
+
+
+
+
+![Screenshot from 2024-01-01 23-10-58](https://github.com/Pv200/PYQT_TEXT_EDITOR-/assets/117562053/81b7fb64-6816-411a-8743-7d2ec842b113)
+
+![Screenshot from 2024-01-01 23-11-15](https://github.com/Pv200/PYQT_TEXT_EDITOR-/assets/117562053/5fc76347-651a-4037-a492-14a94eafe318)
+
 
 ## Installation
 
